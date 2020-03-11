@@ -1,2 +1,2 @@
 # user-details
-Sample Microservice
+Sample Spring Boot API service
